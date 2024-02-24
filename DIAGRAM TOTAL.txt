@@ -1,0 +1,22 @@
+                                                                                       
+                                                                                       
+    User Client                    API Gateway                      Ranking Engine     
+                                                                                       
+          |                              |                                |                                                                           
+          |                              |                                |                                                               
+          v                              v                                |                                 
+                                                                          |                               
+                                                                          
+    Content                    Feed Generator                            
+    Storage                                                               |                            
+                                                                          |                               
+          |                               |                               |
+	  |                               |                               |
+	  |                               |                               |
+	  |                               |                               |
+	  |                               |                               |                               
+                                          v                               |                            
+                                                            
+              >  Message Queue      < ---- New Post     <----------------             
+                                           Events      
+                                                       

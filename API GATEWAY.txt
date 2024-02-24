@@ -1,0 +1,45 @@
+
+
+       
+                              API Gateway                              
+                                    	
+                                   |
+                       
+     Request Handling   >   Routing and Endpoint  >   Load Balancing & Caching 
+                                Management                                      
+                                         
+                                    |                                 
+                                                  
+                              Security (HTTPS,                        
+                              Auth, Rate Limiting)                    
+                                                  
+                                     |                                
+                                                  
+                              Logging and Monitoring                    
+                                                  
+                                      |                               
+                                                  
+                              Response Aggregation                     
+                                                  
+                                       |                              
+                                                  
+                              Error Handling                          
+                                                  
+                                        |                             
+                                                  
+                              Transformation                          
+                                                  
+                                      |                               
+                                                  
+                              Response Handling                        
+                                                  
+                                      |                               
+                                                  
+                              Retry and Circuit                        
+                              Breaking                                
+                                                  
+                                      |                               
+                                                  
+                              Data Security                            
+                                                  
+       
